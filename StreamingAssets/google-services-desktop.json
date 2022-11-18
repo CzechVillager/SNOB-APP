@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498973662685",
+    "project_id": "snob-3eba5",
+    "storage_bucket": "snob-3eba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498973662685:android:22288c4940ce5a3dc8ea34",
+        "android_client_info": {
+          "package_name": "com.SNOB.com.unity.template.mobile2D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498973662685-68vaqc4l36u8st3k41qjg606rpv24si8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCikH3mZpjq5JeVrYIGvASTHzeNwd_gZRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498973662685-68vaqc4l36u8st3k41qjg606rpv24si8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
